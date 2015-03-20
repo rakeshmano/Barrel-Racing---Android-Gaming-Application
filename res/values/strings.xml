@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Barrel Racing</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">Start</string>
+    <string name="info">High Scores</string>
+    <string name="speed">Rider Speed : Slow</string>
+    <color name="TextColor">#AA3F00</color>
+    <string name="name">Rider Name</string>
+    <color name="yourscore">#128394</color>
+    <color name="highscore">#F01A33</color>
+    <string name="home">Home</string>
+
+</resources>
